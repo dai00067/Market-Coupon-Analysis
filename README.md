@@ -1,7 +1,7 @@
-### Background and purpose:               
+### Background and purpose   
 	My client was a hotel corporate with casino. While the head count and coupon redemptions were down, they came to us and sought for solutions. In this case, to drive the number of visits for the hotel, I conducted a marketed coupon analysis to answer 3 questions: who uses coupons, what coupons were redeemed,  and what is being offered.                
 
-### Data:              
+### Data          
 	6 tables with customer, coupon type and redemption information. So before the analysis, I performed a lot of ETL and feature engineer to get the clean tables I can use.             
 
 ### Challenges and methods:             
